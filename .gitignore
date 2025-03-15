@@ -1,0 +1,7 @@
+*.o
+*.a
+*.pdf
+*Makefile
+*.in
+logs/*
+*.log
